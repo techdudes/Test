@@ -20,5 +20,6 @@ public class CollectionExcercise {
 			System.out.println("" + (int) array[i]);
 		}
 		System.out.println("new line added");
+		System.out.println("second line added");
 	}
 }
