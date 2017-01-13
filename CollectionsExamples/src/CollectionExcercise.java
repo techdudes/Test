@@ -19,6 +19,6 @@ public class CollectionExcercise {
 		for (int i = 0; i < array.length; i++) {
 			System.out.println("" + (int) array[i]);
 		}
-
+		System.out.println("new line added");
 	}
 }
