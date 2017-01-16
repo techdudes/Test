@@ -22,5 +22,6 @@ public class CollectionExcercise {
 		System.out.println("new line added");
 		System.out.println("second line added");
 		System.out.println("commiting form windows machine");
+		System.out.println("trying to commitusing eclipse");
 	}
 }
