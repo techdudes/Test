@@ -8,7 +8,7 @@ public class TreeSetExample {
 		treeSetObject.add(10);
 		treeSetObject.add(40);
 		treeSetObject.add(30);
-		treeSetObject.getClass();
+		//treeSetObject.getClass();
 
 		System.out.println("" + treeSetObject);
 		System.out.println("" + treeSetObject.getClass());
